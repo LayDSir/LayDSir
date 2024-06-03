@@ -1,16 +1,32 @@
-## Hi there 👋
+**About Me**  
+I am a T-Shaped IT specialist with a primary focus on web design and front-end development. My skill set extends beyond these areas, encompassing back-end development and various CMS platforms.
 
-<!--
-**LayDSir/LayDSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tools & Skills**
 
-Here are some ideas to get you started:
+> **CMS**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    WordPress, 1C-Bitrix
+
+> **Media & Design Tools**  
+
+    Figma, Photoshop, Illustrator, InDesign, After Effects, Premiere Pro    
+
+> **Design**  
+
+    UX/UI Design, Web Design, Graphic Design, Identity Design,
+    Logo & Illustrations, Photo Retouching    
+
+> **Front-End Development**  
+
+    Vue.js/Nuxt, React, HTML, CSS, JavaScript, JQuery, Bootstrap    
+
+> **Back-End Development**
+
+    PHP, Python, Node.js, Express    
+
+> **ML**
+
+    Image Recognition + Image Editing    
+
+***
+[Website](https://laydsir.ru) — [TG](https://t.me/laydsir)
